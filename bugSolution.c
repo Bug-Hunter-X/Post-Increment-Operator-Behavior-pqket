@@ -1,0 +1,1 @@
+int main() { int x = 5; printf("%d", x++); /* This prints the value of x before incrementing. */ printf("\n"); printf("%d", x); /*This prints the incremented value of x.*/ return 0; }
